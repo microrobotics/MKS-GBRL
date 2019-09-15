@@ -6,10 +6,11 @@ This control board from Makerbase is based off of the 328P chip from Atmel, it i
 - CPU: Atmega 328P
 - Input voltage: 12V
 - Size: 90mm x 70mm
+- https://www.robotics.org.za/MKS-GBRL 
 
-# Manufacturer Product Page
+# Manufacturer - Makerbase Source Code
 - https://github.com/makerbase-mks/MKS-DLC
 
-# Micro Robotics Product Page
-- https://www.robotics.org.za/MKS-GBRL 
+
+
 
